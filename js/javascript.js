@@ -1,5 +1,5 @@
 let spriteList = [];
-let time = 10;
+let time = 9;
 
 window.addEventListener("load", () => {
     spriteList.push(new Alien("alien"));
