@@ -5,7 +5,7 @@ window.addEventListener("load", () => {
     spriteList.push(new Alien("alien"));
     tick();
 
-    setTimeout(reduceTime, 1000);
+    setTimeout(reduceTime, 1005);
 });
 
 const reduceTime = () => {
